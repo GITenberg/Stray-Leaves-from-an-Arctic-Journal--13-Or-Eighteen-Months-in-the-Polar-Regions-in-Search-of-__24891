@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/26796
     wikipedia: http://en.wikipedia.org/wiki/Sherard_Osborn
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24891#Stray-Leaves-from-an-Arctic-Journal--13-Or-Eighteen-Months-in-the-Polar-Regions-in-Search-of-_
 gutenberg_bookshelf: Travel
 gutenberg_issued: '2008-03-21'
 gutenberg_type: Text
