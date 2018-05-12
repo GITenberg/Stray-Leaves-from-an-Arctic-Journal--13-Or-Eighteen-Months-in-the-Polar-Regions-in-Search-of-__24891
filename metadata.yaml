@@ -1,0 +1,30 @@
+_repo: Stray-Leaves-from-an-Arctic-Journal--13-Or-Eighteen-Months-in-the-Polar-Regions-in-Search-of-__24891
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Osborn, Sherard
+    birthdate: 1822
+    deathdate: 1875
+    gutenberg_agent_id: '26796'
+    url: http://www.gutenberg.org/2009/agents/26796
+    wikipedia: http://en.wikipedia.org/wiki/Sherard_Osborn
+description: ''
+gutenberg_bookshelf: Travel
+gutenberg_issued: '2008-03-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24891'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'G'
+- !lcsh 'Franklin, John, 1786-1847'
+- !lcsh 'Arctic regions'
+title: "Stray Leaves from an Arctic Journal\r\nOr, Eighteen Months in the Polar Regions,\
+  \ in Search of Sir John Franklin's Expedition, in the Years 1850-51"
+url: http://www.gutenberg.org/ebooks/24891
